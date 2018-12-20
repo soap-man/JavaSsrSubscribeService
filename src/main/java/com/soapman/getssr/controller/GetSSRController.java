@@ -41,7 +41,7 @@ public class GetSSRController {
 				+ Base64.getEncoder().encodeToString(ssrConfig.getRemarks().getBytes()) + "&group="
 				+ Base64.getEncoder().encodeToString(ssrConfig.getGroup().getBytes());
 		result = result+Base64.getEncoder().encodeToString(basestr.getBytes());
-		return result;
+		return Base64.getEncoder().encodeToString(result.getBytes());
 	}
 
 }
