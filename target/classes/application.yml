@@ -1,0 +1,6 @@
+server:
+   port: 8080
+   
+ssr:
+   remarks: hongkong
+   group: google

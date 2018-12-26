@@ -1,4 +1,4 @@
-package com.soapman.getssr.controller;
+package com.soapman.getssr.utils;
 
 import java.io.BufferedReader;
 import java.io.IOException;

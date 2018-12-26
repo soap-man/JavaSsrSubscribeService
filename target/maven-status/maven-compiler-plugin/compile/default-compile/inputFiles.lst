@@ -1,6 +1,6 @@
-/Users/hiboy/eclipse-workspace/getssr/src/main/java/com/soapman/getssr/controller/FileUtil.java
-/Users/hiboy/eclipse-workspace/getssr/src/main/java/com/soapman/getssr/controller/SSRConfig.java
+/Users/hiboy/eclipse-workspace/getssr/src/main/java/com/soapman/getssr/config/SSRConfig.java
 /Users/hiboy/eclipse-workspace/getssr/src/main/java/com/soapman/getssr/App.java
+/Users/hiboy/eclipse-workspace/getssr/src/main/java/com/soapman/getssr/utils/FileUtil.java
 /Users/hiboy/eclipse-workspace/getssr/src/main/java/com/soapman/getssr/controller/GetSSRController.java
 /Users/hiboy/eclipse-workspace/getssr/src/main/java/com/soapman/getssr/controller/Test.java
-/Users/hiboy/eclipse-workspace/getssr/src/main/java/com/soapman/getssr/controller/CommandUtil.java
+/Users/hiboy/eclipse-workspace/getssr/src/main/java/com/soapman/getssr/utils/CommandUtil.java
